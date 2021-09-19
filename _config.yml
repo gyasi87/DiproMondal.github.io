@@ -7,7 +7,7 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://NicholasEssel.github.io
+url: https://nicholasessel.github.io
 author: Nicholas Essel
 
 # edit this section with your information
@@ -18,7 +18,7 @@ title: Nicholas Essel's Resume
 name: Nicholas Essel
 email_full: mailto:nicholasg.essel@gmail.com
 website: NicholasEssel.github.io
-website_full: http://NicholasEssel.github.io
+website_full: https://nicholasessel.github.io
 github: trending
 tel: +46 707170469
 tel_full: tel:+46 707170469
@@ -28,7 +28,7 @@ address:
   postcode: 168 72
   city: Stockholm
   country: Sweden
-google_analytics: G-WXTLEDKBGY
+google_analytics: 
 
 # needed for travis-ci build
 exclude: [vendor]
