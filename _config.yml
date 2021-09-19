@@ -13,7 +13,7 @@ author: Nicholas Essel
 # edit this section with your information
 # jekyller.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: http://NicholasEssel.github.io
+baseurl: /
 title: Nicholas Essel's Resume
 name: Nicholas Essel
 email_full: mailto:nicholasg.essel@gmail.com
